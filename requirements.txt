@@ -1,0 +1,10 @@
+flask
+tensorflow
+transformers
+numpy
+pandas
+scikit-learn
+gunicorn
+tf-keras
+opencv-python
+fer
